@@ -28,7 +28,7 @@
 
 ## How to Use
 
-### PersyaConditionratan
+### Condition
 
 - [Composer](https://getcomposer.org/).
 - PHP 8.1+ and MySQL or [XAMPP](https://www.apachefriends.org/download.html) version 8.1+  by enabling the extension `-intl` and `-gd`.
@@ -37,16 +37,8 @@
 
 ```
 
-## Contributing
 
-Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
-
-## Donasi
-
-[![Donate paypal](https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge)](https://paypal.me/xannxett?country.x=ID&locale.x=en_US)
-[![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
-## Lisensi
+## License
 
 [![GitHub license](https://img.shields.io/github/license/ikhsan3adi/sistem-perpustakaan-qr-code?style=for-the-badge)](https://github.com/ikhsan3adi/sistem-perpustakaan-qr-code/raw/main/LICENSE)
 
